@@ -1,0 +1,6 @@
+
+18/12/2022 15:38 => Creation d'un depot local(sur PC pour la 3° fois)
+18/12/2022 15:48 => Modification du fichier Note.txt
+18/12/2022 16:54 => Mon 1° envoi sur internet enfin
+18/12/2022 17:00 => Mon 2° envoi sur internet (le 1° n'est pas passé)
+19/12/2022 11:19 => Mon premier envoi depuis un autre compte (Projet429)
